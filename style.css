@@ -1,0 +1,34 @@
+.kyniem p {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 25px;
+    color: violet;
+}
+
+.xemanh {
+    display: flex;
+    border: 1px solid black;
+    margin-bottom: 30px;
+    justify-content: space-between;
+}
+
+.xemanh button {
+    border: none;
+    background-color: #542be24f;
+    width: 50px;
+}
+
+.trai i,
+.phai i {
+    font-size: 35px;
+}
+
+.main img {
+    display: block;
+    margin: auto;
+    width: 650px;
+}
+
+.img-ny {
+    margin: 10px 0;
+}
